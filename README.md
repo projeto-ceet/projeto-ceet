@@ -1,5 +1,5 @@
 # 📚 Projetos de tecnologia CEET! 
-Este perfil contém projetos desenvolvidos pelos alunos dos cursos de **Tecnologia**.  
+Este perfil contém projetos desenvolvidos pelos alunos e professores dos cursos de **Tecnologia**.  
 
 ## 🚀 Sobre os Cursos 
 Os cursos de Tecnologia oferecem aprendizado em diversas áreas, incluindo:  
