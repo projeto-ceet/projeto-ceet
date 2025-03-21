@@ -1,4 +1,4 @@
-# 📚 Projetos de tecnologia CEET! 
+# 📚 Laboratório de Robótica do CEET Vasco Coutinho! 
 Este perfil contém projetos desenvolvidos pelos alunos e professores dos cursos de **Tecnologia**.  
 
 ## 🚀 Sobre os Cursos 
